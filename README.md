@@ -1,6 +1,10 @@
 # UE5.1 demo project for `WhisperRealtime` plugin
 
-This is a UE5.1 project for demonstration of [Whisper-based Real-time Speech Recognition](https://www.unrealengine.com/marketplace/product/d293a6a427c94831888ca0f47bc5939b), or `WhisperRealtime` for short, an Unreal Engine plugin for real-time speech-to-text transcription and alignment with multi-language support, based on OpenAI's Whisper model.
+This is a UE5.1 project for demonstration of [Whisper-based Real-time Speech Recognition](https://www.unrealengine.com/marketplace/product/d293a6a427c94831888ca0f47bc5939b), or `WhisperRealtime` for short.
+
+`WhisperRealtime` is an Unreal Engine plugin for real-time speech-to-text transcription and alignment with multi-language support, based on OpenAI's Whisper model.
+
+[![Youtube demo](http://img.youtube.com/vi/mmMDhH0ueyI/0.jpg)](https://www.youtube.com/watch?v=mmMDhH0ueyI)
 
 ## System Requirements
 
@@ -22,6 +26,8 @@ If you want to run with GPU,
 4. Select `Third Person` on Blueprint tab and click `Add to Project`
 5. Restart Unreal Editor.
 6. Click `Play` on Unreal Editor.
+
+![WhisperRealtimeDemoSetup](https://user-images.githubusercontent.com/89242761/210740516-161fd325-3f75-41dd-8f34-77f6e1942c53.gif)
 
 ## How to select microphone
 

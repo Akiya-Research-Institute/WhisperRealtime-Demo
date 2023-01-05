@@ -6,6 +6,10 @@ This is a UE5.1 project for demonstration of [Whisper-based Real-time Speech Rec
 
 [![Youtube demo](http://img.youtube.com/vi/mmMDhH0ueyI/0.jpg)](https://www.youtube.com/watch?v=mmMDhH0ueyI)
 
+## Download packaged build
+
+You can download packaged build of this demo project from [here](https://akiya-research-institute.github.io/WhisperRealtime-Manual/en/demo-project-overview/).
+
 ## System Requirements
 
 - Windows 10 64bit

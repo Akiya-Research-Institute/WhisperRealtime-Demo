@@ -1,6 +1,6 @@
 # UE5.1 demo project for `WhisperRealtime` plugin
 
-This is a UE5.1 project for demonstration of [Whisper-based Real-time Speech Recognition](https://www.unrealengine.com/marketplace/product/d293a6a427c94831888ca0f47bc5939b), or `WhisperRealtime` for short.
+This is a UE5.1 project for demonstration of [Whisper-based Real-time Speech Recognition](https://www.fab.com/listings/86ece157-4a33-4f84-b215-01e8dbf4d090), or `WhisperRealtime` for short.
 
 `WhisperRealtime` is an Unreal Engine plugin for real-time speech-to-text transcription and alignment with multi-language support, based on OpenAI's Whisper model.
 
